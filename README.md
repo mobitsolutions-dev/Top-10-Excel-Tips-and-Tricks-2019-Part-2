@@ -67,3 +67,16 @@ Some default data will be blank, for various reasons.If you need to delete these
 
 
 <img src="images/10.jpg" height="300" width="350">
+
+<h2>For more useful articles or blogs visit our website:</h2>
+
+https://www.mobitsolutions.com/blog
+
+<h2>About Us:</h2>
+wordpress website design | wordpress theme development | wordpress designer
+
+https://www.mobitsolutions.com/website-design-development/
+
+<h2>Video Tutorial:</h2>
+
+https://youtu.be/A2ySIATBcV4
