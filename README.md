@@ -1,4 +1,4 @@
-# Top 10 Excel Tips and Tricks 2019
+# Top 10 Excel Tips and Tricks 2020
 
 <h2>Trick # 1 : Generate a Unique Value in a Column </h2>
 
@@ -79,4 +79,4 @@ https://www.mobitsolutions.com/website-design-development/
 
 <h2>Video Tutorial:</h2>
 
-https://youtu.be/A2ySIATBcV4
+https://youtu.be/yC6IFvAn9wE
