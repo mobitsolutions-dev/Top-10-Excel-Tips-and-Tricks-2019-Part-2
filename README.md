@@ -3,7 +3,10 @@
 <h2>Trick # 1 : Generate a Unique Value in a Column </h2>
 
 Click to choose the column and go to Data->Advanced. A pop-up window will show up. As the screenshot shows, click Copy to another location, which should be in accord with the second red rectangular area. Then specify the target location by typing the value or clicking the area-choosing button. 
-<img src=" images/9.jpg" height="300" width="300">
+
+<img src="images/9.jpg" height="300" width="300">
+
+
 <h2>Trick # 2 : One Click to Get More Status</h2>
 
 Most users know how to check the data status in the bottom of an Excel sheet, like Average and Sum Value. However, do you know you can move the pointer to the bottom tab and right click to get more status
