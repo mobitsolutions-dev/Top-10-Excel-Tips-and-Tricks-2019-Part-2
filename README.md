@@ -66,4 +66,4 @@ Complicated formulation is unnecessary, as long as you know how to use``` &```. 
 Some default data will be blank, for various reasons.If you need to delete these to maintain accuracy, especially when calculating the average value, ```the speedy way is to filter out all blank cells and delete them with one click. Choose the column you want to filter, go to Data->Filter, after the downward button shows, undo Select All and then pick up the last option, Blanks.``` All blank cells will show immediately. Go back to Home and click Delete directly, all of them will be removed.
 
 
-<img src="images/10.jpg" height="600" width="650">
+<img src="images/10.jpg" height="300" width="350">
