@@ -1,4 +1,4 @@
-# Top 10 Excel Tips and Tricks 2020
+# Top 10 Excel Tips and Tricks 2020 | Part 2
 
 <h2>Trick # 1 : Generate a Unique Value in a Column </h2>
 
